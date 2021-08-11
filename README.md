@@ -19,7 +19,7 @@
 - [https://christine.website/blog](https://christine.website/blog)
 - [https://blog.yongfook.com/](https://blog.yongfook.com/)
 - [https://phuctm97.com/](https://phuctm97.com/)
-- [https://www.swyx.io/35-principles/](https://www.swyx.io/35-principles/)
+- [https://www.swyx.io](https://www.swyx.io/)
 - [https://stackoverflow.blog](https://stackoverflow.blog)
 - [https://vitalik.ca](https://vitalik.ca)
 - [https://paulgraham.com](https://paulgraham.com)
@@ -39,6 +39,11 @@
 - [bulma](https://bulma.io/documentation/components)
 - [chakra ui](https://chakra-ui.com/docs/getting-started)
 - [chartscss](https://chartscss.org/docs/)
+- [vercel](https://vercel.com/docs)
+- [prisma](https://www.prisma.io/docs/)
+
+## misc
+- [https://octo.github.com/projects/repo-visualization](https://octo.github.com/projects/repo-visualization)
 
 ## publications
 - [https://www.outsideonline.com/](https://www.outsideonline.com/)
