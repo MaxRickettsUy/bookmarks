@@ -1,3 +1,10 @@
+<style>
+    body {
+        background: #2724525;
+        color: #F13C3B;
+    }
+</style>
+
 # bookmarks
 
 ## books (with Amazon links)
