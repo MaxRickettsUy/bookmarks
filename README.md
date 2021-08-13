@@ -45,6 +45,11 @@
 ## misc
 - [https://octo.github.com/projects/repo-visualization](https://octo.github.com/projects/repo-visualization)
 
+## plain old recipes
+[classic stuffed peppers](https://plainoldrecipe.com/recipe?url=https%3A%2F%2Fwww.delish.com%2Fcooking%2Frecipe-ideas%2Fa23014857%2Fclassic-stuffed-peppers-recipe%2F)[archive](https://web.archive.org/web/20210813022436/https://plainoldrecipe.com/recipe?url=https%3A%2F%2Fwww.delish.com%2Fcooking%2Frecipe-ideas%2Fa23014857%2Fclassic-stuffed-peppers-recipe%2F)
+
+[oven baked chicken breasts](https://plainoldrecipe.com/recipe?url=https%3A%2F%2Fwww.spendwithpennies.com%2Foven-baked-chicken-breasts%2F)[archive](https://web.archive.org/web/20210813022622/https://plainoldrecipe.com/recipe?url=https%3A%2F%2Fwww.spendwithpennies.com%2Foven-baked-chicken-breasts%2F)
+
 ## publications
 - [https://www.outsideonline.com/](https://www.outsideonline.com/)
 
