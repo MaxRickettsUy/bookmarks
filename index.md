@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# bookmarks
 
-You can use the [editor on GitHub](https://github.com/MaxRickettsUy/bookmarks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## books (with Amazon links)
+- [Quiet Power Introverts World Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153)
+- [Working Effectively](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## articles
+- [lessons learned from 15 years of sumatra pdf](https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html)
+- [on leaving california and silicon valley](https://bartwronski.com/2021/06/28/on-leaving-california-and-the-silicon-valley/)
+- [no we don't use kubernetes](https://ably.com/blog/no-we-dont-use-kubernetes)
+- [10 papers every developer should read at least twice](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
+- [scaling](https://vitalik.ca/general/2021/05/23/scaling.html)
+- [how we use web components at github](https://github.blog/2021-05-04-how-we-use-web-components-at-github/)
+- [adhd: a life long struggle](https://gekk.info/articles/adhd.html)
+- [practical ways to write better javascript](https://stackoverflow.blog/2019/09/12/practical-ways-to-write-better-javascript/)
 
-### Markdown
+## blogs
+- [https://calebporzio.com/](https://calebporzio.com/)
+- [https://christine.website/blog](https://christine.website/blog)
+- [https://blog.yongfook.com/](https://blog.yongfook.com/)
+- [https://phuctm97.com/](https://phuctm97.com/)
+- [https://www.swyx.io/35-principles/](https://www.swyx.io/35-principles/)
+- [https://stackoverflow.blog](https://stackoverflow.blog)
+- [https://vitalik.ca](https://vitalik.ca)
+- [https://paulgraham.com](https://paulgraham.com)
+- [https://blog.ethereum.org](https://blog.ethereum.org)
+- [https://drewdevault.com/](https://drewdevault.com/)
+- [https://stratechery.com/](https://stratechery.com/)
+- [https://github.blog/](https://github.blog)
+- [https://panelbear.com/blog](https://panelbear.com/blog)
+- [https://www.joshwcomeau.com/](https://www.joshwcomeau.com/)
+- [https://jvns.ca/](https://jvns.ca/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## documentation
+- [tailwind css](https://tailwindcss.com/docs)
+- [threejs](https://threejs.org/)
+- [stripe](https://stripe.com/docs/api)
+- [passportjs](http://www.passportjs.org/)
+- [bulma](https://bulma.io/documentation/components)
+- [chakra ui](https://chakra-ui.com/docs/getting-started)
+- [chartscss](https://chartscss.org/docs/)
 
-```markdown
-Syntax highlighted code block
+## publications
+- [https://www.outsideonline.com/](https://www.outsideonline.com/)
 
-# Header 1
-## Header 2
-### Header 3
+## reddit
+- [i went to the office for the first time...](https://www.reddit.com/r/cscareerquestions/comments/oosru6/i_went_to_the_office_for_the_first_time_i_fucking/)
+- [i made a free alternative to photoshop...](https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/g18ush0/)
 
-- Bulleted
-- List
+## twitter
+- [This is a story about how I lost $10,000,000 by doing something stupid.](https://twitter.com/awilkinson/status/1376985854229504007)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaxRickettsUy/bookmarks/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## videos
+- [Wikipedia co-founder: I no longer trust the website I created
+](https://www.youtube.com/watch?v=l0P4Cf0UCwU)
+- [Build Stuff with GUTS](https://www.youtube.com/watch?v=azoucC_fwzw)
