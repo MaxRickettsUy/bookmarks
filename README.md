@@ -1,11 +1,9 @@
 <style>
     body {
-        background: #2724525;
-        color: #F13C3B;
+        background: #272425;
+        color: #FAF4F6;
     }
 </style>
-
-# bookmarks
 
 ## books (with Amazon links)
 - [Quiet Power Introverts World Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153)
