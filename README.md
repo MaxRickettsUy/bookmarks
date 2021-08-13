@@ -1,10 +1,3 @@
-<style>
-    body {
-        background: #272425;
-        color: #FAF4F6;
-    }
-</style>
-
 ## books (with Amazon links)
 - [Quiet Power Introverts World Talking](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153)
 - [Working Effectively](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
@@ -69,3 +62,10 @@
 - [Wikipedia co-founder: I no longer trust the website I created
 ](https://www.youtube.com/watch?v=l0P4Cf0UCwU)
 - [Build Stuff with GUTS](https://www.youtube.com/watch?v=azoucC_fwzw)
+
+<style>
+    body {
+        background: #272425;
+        color: #FAF4F6;
+    }
+</style>
