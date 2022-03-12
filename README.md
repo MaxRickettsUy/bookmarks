@@ -68,4 +68,7 @@
         background: #272425;
         color: #FAF4F6;
     }
+    a {
+        color: lightblue;
+    }
 </style>
