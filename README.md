@@ -28,6 +28,7 @@
 - [https://panelbear.com/blog](https://panelbear.com/blog)
 - [https://www.joshwcomeau.com/](https://www.joshwcomeau.com/)
 - [https://jvns.ca/](https://jvns.ca/)
+- [https://brianlovin.com/bookmarks](https://brianlovin.com/bookmarks)
 
 ## documentation
 - [tailwind css](https://tailwindcss.com/docs)
